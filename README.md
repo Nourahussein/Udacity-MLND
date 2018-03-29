@@ -7,7 +7,7 @@ This repository contains project files  for Udacity's Machine Learning Engineer 
 ------------------------------------------
 ### Exploratory Project:
 
-*=Project 0:Titanic Survival Exploration*
+*Project 0:Titanic Survival Exploration*
 
 ### Model Evaluation and Validation:
 
