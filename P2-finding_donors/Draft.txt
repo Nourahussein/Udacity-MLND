@@ -1,0 +1,14 @@
+Gaussian naive bayes
+*Real-wolrd applicatin:  mark an email as spam or ham.
+
+*the strengths of naive bayes: it's very easy to implement cause it based on assuming conditional independence among features.
+
+*the weakness of naive bayes: when you use Naïve Bayes classification algorithm with a small data set the precision and recall will keep very low.
+
+*I think it's good cause census it  not very small to make reliable estimations of the probability of each class.
+
+**References:** 
+
+https://www.researchgate.net/post/What_are_the_disadvantages_of_Naive_Bayes
+
+https://www.quora.com/In-what-real-world-applications-is-Naive-Bayes-classifier-used
