@@ -16,3 +16,8 @@ This repository contains project files  for Udacity's Machine Learning Engineer 
 ### Supervised Learning:
 
 *Project 2: Finding Donors for CharityML*
+
+### Unsupervised Learning:
+
+*Project 3: Customer Segments*
+
