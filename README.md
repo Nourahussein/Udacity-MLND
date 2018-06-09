@@ -21,3 +21,21 @@ This repository contains project files  for Udacity's Machine Learning Engineer 
 
 *Project 3: Customer Segments*
 
+### Deep learning:
+ 
+*project 4: Dog breeds classifiaction*
+
+
+## Install
+his project requires Python 3.5 or later and the following Python libraries installed:
+
+* [NumPy]
+* [Pandas]
+* [matplotlib]
+* [scikit-learn]
+* [Keras]
+You will also need to have software installed to run and execute jupyter notebook.
+
+
+
+
