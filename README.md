@@ -1,4 +1,4 @@
-# Udacity Machine Learning Nano Degree Projects'
+# Udacity Machine Learning Nano Degree Projects
 
 Udacity's Machine Learning Nanodegree notebooks.
 This repository contains project files  for Udacity's Machine Learning Engineer Nanodegree program which I started working on in December 2017
@@ -34,6 +34,7 @@ his project requires Python 3.5 or later and the following Python libraries inst
 * [matplotlib]
 * [scikit-learn]
 * [Keras]
+
 You will also need to have software installed to run and execute jupyter notebook.
 
 
